@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../../food-dashboard 5"
+		},
+		{
+			"path": "../../tinhDienTich"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../Javascript_axios_QLSP 3"
+		},
+		{
+			"path": "../../TestingOnline"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "todolist"
+	}
+}
